@@ -54,9 +54,7 @@
 
 <img width="1918" height="1078" alt="hdl_1_3" src="https://github.com/user-attachments/assets/0ff6e8fd-4c7b-4bbd-accb-6ce34c85d83a" />
 
-
 # Conclusion:
-
 
 In this experiment, a seven-segment display decoder was designed and simulated using Vivado 2023.1. The Verilog code was implemented to convert binary-coded decimal (BCD) inputs into appropriate segment control signals. The behavioral simulation verified that each digit (0–9) was correctly displayed by activating the corresponding segments (a–g).  
 
