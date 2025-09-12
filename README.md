@@ -36,6 +36,10 @@
 
 - Close the Simulation Once done, go to Simulation → "Close Simulation".  
 
+# Input/Output signal diagram:
+
+![WhatsApp Image 2025-09-12 at 13 33 54](https://github.com/user-attachments/assets/85ae3dfa-b694-4e96-8eae-563981a3e477)
+
 
 
 # RTL Code:
